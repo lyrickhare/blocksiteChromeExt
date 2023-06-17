@@ -246,8 +246,8 @@ const generateHTML = (pageName) => {
   <div class='c'>
       <div class='_404'>404</div>
       <hr>
-      <div class='_1'>GET BACK TO WORK</div>
-      <div class='_2'>STUDYING > ${pageName}</div>
+      <div class='_1'>KARMA IS ANYTHING EXCEPT GUILT</div>
+      <div class='_1'>GOALS > ${pageName}</div>
   </div>
    `;
 };
